@@ -1,9 +1,9 @@
 const cacheName = "DRI-Matchday-1.0";
 const contentToCache = [
-    "Build/fullscreen-test.loader.js",
-    "Build/fullscreen-test.framework.js",
-    "Build/fullscreen-test.data",
-    "Build/fullscreen-test.wasm",
+    "Build/webgltest.loader.js",
+    "Build/webgltest.framework.js",
+    "Build/webgltest.data",
+    "Build/webgltest.wasm",
     "TemplateData/style.css"
 
 ];
