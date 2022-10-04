@@ -1,9 +1,9 @@
 const cacheName = "DRI-Matchday-1.0";
 const contentToCache = [
-    "Build/webgltest.loader.js",
-    "Build/webgltest.framework.js",
-    "Build/webgltest.data",
-    "Build/webgltest.wasm",
+    "Build/sharetest.loader.js",
+    "Build/sharetest.framework.js",
+    "Build/sharetest.data",
+    "Build/sharetest.wasm",
     "TemplateData/style.css"
 
 ];
