@@ -1,4 +1,0 @@
-#unity-loading-bar { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: none }
-#game-logo{ background-image: url(FIFA_logo_medium.png); background-size: 180px; width: 180px; height: 216px; no-repeat;}
-#unity-progress-bar-empty { position: relative; left: 20px; top: 12px; width: 141px; background: url('progress-bar-empty-dark.png') no-repeat center }
-#unity-progress-bar-full { position: relative; left: 0px; width: 0%; height: 18px; margin-top: 10px; background: url('progress-bar-full-dark.png') no-repeat center }
